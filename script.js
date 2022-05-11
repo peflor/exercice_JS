@@ -29,3 +29,16 @@ function exercice1() {
    
     // Saisir votre code ici
 } 
+//  Réponse de DAOUDA
+// function min(tabNombres) {
+//    var result = tabNombres[0];
+//    for(var i = 1; i < tabNombres.length; i++) {
+//    if (tabNombres[i] < result) {
+//        result = tabNombres[i];
+//    }
+//    }  
+//    return result;
+// }
+ 
+//   return resultatsExercice;
+// }
